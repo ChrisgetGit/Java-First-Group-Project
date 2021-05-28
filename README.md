@@ -1,6 +1,6 @@
 # Java-First-Group-Project
 
-Team-Work:
+<b>Team-Work:</b>
 
 *Practice to organize and develop software as a team
 
